@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.cbutton {
+    font-size: 32px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.buyes {
+    color: white;
+    background-color: black;
+}
+
+.buno {
+    background-color: yellow;
+}
